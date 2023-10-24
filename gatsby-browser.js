@@ -14,6 +14,10 @@ import {
 import './static/css/ibm-plex-sans-var.css'
 import './static/css/noto-sans-arabic.css'
 import './static/css/ubuntu.css'
+import './static/css/tailwind.css'
+import '@deriv/quill-design/dist/quill-design.css'
+import '@deriv/quill-design/quill-tailwind/styles.css'
+import '@deriv-com/blocks/style.css'
 
 const is_browser = typeof window !== 'undefined'
 
